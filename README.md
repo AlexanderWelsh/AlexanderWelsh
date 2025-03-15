@@ -1,16 +1,33 @@
-## Hi there 👋
+I am a Computer Information Systems student specializing in data analytics at the University of Louisville. This portfolio showcases various projects that I have completed during my time at UofL, both in and out of classes
+. 
+## Resume
+[Resume](https://pages.github.com/)
 
-<!--
-**AlexanderWelsh/AlexanderWelsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+## Programming languages
+* Python
+* C#
+* HTML
+* SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Databases
+* MySQL
+
+## Development Environments
+* Visual Studio Code
+* Visual Studio 2022
+
+## Office Tools
+* Word
+* Excel
+* Powerpoint
+
+## Diagram Tools
+* LucidChart
+
+## CIS 199 Software Development C#
+* [Mural Calculator](https://github.com/AlexanderWelsh/Mural-Calculator)
+* [Insurance-Policy-Calculator](https://github.com/AlexanderWelsh/Insurance-Policy-Calculator/tree/main)
+* [Shipping Contract Calculator](https://github.com/AlexanderWelsh/Shipping-Contract-Calculator)
+* [Stock-Tracker](https://github.com/AlexanderWelsh/Stock-Tracker)
