@@ -34,3 +34,4 @@ I am a Computer Information Systems student specializing in data analytics at th
 
 ## SQL
 * [Mini-Database](https://github.com/AlexanderWelsh/Mini-Database)
+* [Table Creation](https://github.com/AlexanderWelsh/Table-Creation/tree/main)
