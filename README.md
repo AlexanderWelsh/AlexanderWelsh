@@ -11,12 +11,14 @@ I am a Computer Information Systems student specializing in data analytics at th
 * SQL
 
 ### Development Environments
+* Tableau Desktop
+* Power BI Desktop
 * Visual Studio Code
 * Visual Studio 2022
 * MySQL
 
 ### Office Tools
-* Word/Excel/Powerpoint
+* Word/Excel/PowerPoint
 
 ### Diagram Tools
 * LucidChart
@@ -43,3 +45,7 @@ I am a Computer Information Systems student specializing in data analytics at th
 
 ## Non-Profit Documentation and Design (LucidChart/Canva)
 * [Iteration 1-5](https://github.com/AlexanderWelsh/Iteration-1-5-Worth-the-Words/tree/main)
+
+## Data Visualization
+* [Tableau Resume](https://public.tableau.com/app/profile/alexander.welsh/viz/AlexanderWelshResume/AlexanderWelshResume)
+* [Power BI Louisville Metro Crime Data Dashboard](https://github.com/AlexanderWelsh/Louisville-Metro-Crime-Data-Dashboard/tree/main)
