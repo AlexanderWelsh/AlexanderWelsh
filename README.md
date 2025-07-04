@@ -1,7 +1,7 @@
 I am a Computer Information Systems student specializing in data analytics at the University of Louisville. This portfolio showcases various projects that I have completed during my time at UofL, both in and out of classes
 . 
 ## Resume
-[Alexander Welsh Resume](https://pages.github.com/)
+[Alexander Welsh Resume](https://github.com/AlexanderWelsh/Alexander-Welsh-Resume)
 
 ## Skills
 ### Programming languages
